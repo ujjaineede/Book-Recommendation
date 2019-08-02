@@ -1,2 +1,2 @@
 # Book-Recommendation-System
-Will display new books to study with the data of previous reads 
+A System code to recommend a reader to next reads with the information of the pevious reads of the user!
